@@ -6,7 +6,7 @@ local worldToViewportPoint = CurrentCamera.worldToViewportPoint
 local headOff = Vector3.new(0, 1, 0)
 local legOff = Vector3.new(0, 3, 0)
 
-_G.Enabled = true
+_G.Enabled = false
 
 for i,v in pairs(game.Workspace.Bots:GetChildren()) do
 
