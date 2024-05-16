@@ -1,4 +1,4 @@
---[[ ignore my shitty code just execute it! Also if you want to build off of this library please dont just use my new esp library ]]--
+
 
 local lplr = game.Players.LocalPlayer
 local camera = game:GetService("Workspace").CurrentCamera
